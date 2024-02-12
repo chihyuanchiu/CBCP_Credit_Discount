@@ -163,4 +163,5 @@ cython_debug/
 data_budget/
 data_discount/
 data_budget_pure/
+plots/
 
