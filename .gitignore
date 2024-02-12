@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 # Data folders:
-data_output_budget/
-data_output_discount/
+data_budget/
+data_discount/
+data_budget_pure/
 
