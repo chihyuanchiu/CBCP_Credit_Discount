@@ -162,4 +162,5 @@ cython_debug/
 # Data folders:
 data/**
 plots/**
+figures/**
 slides/
